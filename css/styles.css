@@ -1,3 +1,17 @@
-h1 {
-  
+h2.intro {
+  font-family: sans-serif;
+  color: green;
+  font-size: 40px;
+}
+
+p.intro {
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+img.intro {
+  width: 500px;
+  display: inline-block;
+  margin-left: 10px;
+  float: right;
 }
