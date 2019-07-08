@@ -6,11 +6,13 @@
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+This is a very boring lecture.  Nothing great about it. A practice in using classes for styling sections of the page.
 
 ## Setup/Installation Requirements
 
-* 
+* Copy the repository
+* Open the HTML file in the browser of your choice
+* Enjoy
 
 ## Known Bugs
 
